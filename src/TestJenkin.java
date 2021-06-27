@@ -5,6 +5,8 @@ public class TestJenkin {
 		// TODO Auto-generated method stub
 
 		 System.out.println("Hello ........");
+		 System.out.println("Hello Git........");
+		 
 	}
 
 }
